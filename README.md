@@ -4,7 +4,7 @@ URL shortening service provides shorter aliases for long URLs. When users hit th
 # Install dependencies
 npm install
 
-# Edit the default.json file with mongoURI.
+Edit the default.json file with mongoURI.
 
 # Run
 npm start
