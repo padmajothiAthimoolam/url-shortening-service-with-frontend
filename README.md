@@ -7,4 +7,4 @@ npm install
 Edit the default.json file with mongoURI.
 
 # Run
-npm start
+node server
